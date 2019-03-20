@@ -1,2 +1,3 @@
 here is my readme
-now you can fuck off
+Zdravo kako ste?
+Ja sum odlicno raspolozen
